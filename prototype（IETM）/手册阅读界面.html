@@ -62,6 +62,7 @@
     <script src="./three.min.js"></script>
     <script src="./GLTFLoader.js"></script>
     <script src="./OrbitControls.js"></script>
+    <script src="./stats.min.js"></script>
   </head>
   <style>
     #u2413 audio {
@@ -6042,7 +6043,6 @@
                       </div>
                       <script>
                         // 等待页面加载完成后执行 Three.js 代码
-                        // 等待页面加载完成后执行 Three.js 代码
                         window.onload = function () {
                           var container =
                             document.getElementById("threejs-container");
@@ -6129,11 +6129,20 @@
                           controls.enableZoom = true;
                           controls.enablePan = true;
 
-                          // 添加一个简单的动画循环
+                          // ===== 帧率监控 stats.js =====
+                          var stats = new Stats();
+                          stats.showPanel(0); // 0: FPS
+                          document.body.appendChild(stats.dom);
+
+                          // 动画循环
                           function animate() {
-                            requestAnimationFrame(animate);
-                            controls.update(); // 更新控制器
+                            stats.begin();
+
+                            controls.update();
                             renderer.render(scene, camera);
+
+                            stats.end();
+                            requestAnimationFrame(animate);
                           }
                           animate();
                         };
