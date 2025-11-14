@@ -3893,6 +3893,7 @@
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
+  visibility:hidden;
 }
 #u2794_img {
   border-width:0px;
@@ -3910,6 +3911,11 @@
   width:164px;
   height:39px;
   display:flex;
+  font-family:'Nunito Sans Bold', 'Nunito Sans Regular', 'Nunito Sans', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:14px;
+  color:#015478;
   text-align:left;
 }
 #u2794 .text {
@@ -3923,7 +3929,6 @@
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
-  visibility:hidden;
 }
 #u2795_img {
   border-width:0px;
@@ -3956,7 +3961,6 @@
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
-  visibility:hidden;
 }
 #u2796_img {
   border-width:0px;
@@ -3974,6 +3978,11 @@
   width:129px;
   height:39px;
   display:flex;
+  font-family:'Nunito Sans', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#000000;
   text-align:left;
 }
 #u2796 .text {
@@ -3987,7 +3996,6 @@
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
-  visibility:hidden;
 }
 #u2797_img {
   border-width:0px;
@@ -4005,6 +4013,11 @@
   width:120px;
   height:39px;
   display:flex;
+  font-family:'Nunito Sans', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#000000;
   text-align:left;
 }
 #u2797 .text {
@@ -4018,7 +4031,6 @@
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
-  visibility:hidden;
 }
 #u2798_img {
   border-width:0px;
@@ -4036,6 +4048,11 @@
   width:127px;
   height:39px;
   display:flex;
+  font-family:'Nunito Sans', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#000000;
   text-align:left;
 }
 #u2798 .text {
@@ -4049,7 +4066,6 @@
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
-  visibility:hidden;
 }
 #u2799_img {
   border-width:0px;
@@ -4067,6 +4083,11 @@
   width:112px;
   height:39px;
   display:flex;
+  font-family:'Nunito Sans', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#000000;
   text-align:left;
 }
 #u2799 .text {
@@ -4080,7 +4101,6 @@
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
-  visibility:hidden;
 }
 #u2800_img {
   border-width:0px;
@@ -4098,6 +4118,11 @@
   width:81px;
   height:39px;
   display:flex;
+  font-family:'Nunito Sans', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#000000;
   text-align:left;
 }
 #u2800 .text {
@@ -4111,7 +4136,6 @@
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
-  visibility:hidden;
 }
 #u2801_img {
   border-width:0px;
@@ -4129,6 +4153,11 @@
   width:101px;
   height:39px;
   display:flex;
+  font-family:'Nunito Sans Bold', 'Nunito Sans Regular', 'Nunito Sans', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:14px;
+  color:#000000;
   text-align:left;
 }
 #u2801 .text {
@@ -4142,7 +4171,6 @@
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
-  visibility:hidden;
 }
 #u2802_img {
   border-width:0px;
@@ -4160,6 +4188,11 @@
   width:112px;
   height:39px;
   display:flex;
+  font-family:'Nunito Sans Bold', 'Nunito Sans Regular', 'Nunito Sans', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:14px;
+  color:#4B7902;
   text-align:left;
 }
 #u2802 .text {
@@ -4173,7 +4206,6 @@
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
-  visibility:hidden;
 }
 #u2803_img {
   border-width:0px;
@@ -4191,6 +4223,11 @@
   width:113px;
   height:39px;
   display:flex;
+  font-family:'Nunito Sans', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#000000;
   text-align:left;
 }
 #u2803 .text {
@@ -4204,7 +4241,6 @@
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
-  visibility:hidden;
 }
 #u2804_img {
   border-width:0px;
@@ -4222,6 +4258,11 @@
   width:200px;
   height:39px;
   display:flex;
+  font-family:'Nunito Sans', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#000000;
   text-align:left;
 }
 #u2804 .text {
@@ -4253,6 +4294,11 @@
   width:90px;
   height:39px;
   display:flex;
+  font-family:'Nunito Sans', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#000000;
   text-align:left;
 }
 #u2805 .text {
@@ -4266,7 +4312,6 @@
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
-  visibility:hidden;
 }
 #u2806_img {
   border-width:0px;
