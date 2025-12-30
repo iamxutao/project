@@ -1,0 +1,118 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:relative;
+  left:0px;
+  width:1665px;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:left;
+}
+.form_sketch {
+  border-color:transparent;
+  background-color:transparent;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u4643_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1665px;
+  height:937px;
+}
+#u4643 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1665px;
+  height:937px;
+  display:flex;
+}
+#u4643 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u4643_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u4644 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:67px;
+  height:69px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u4645_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1665px;
+  height:833px;
+}
+#u4645 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:970px;
+  width:1665px;
+  height:833px;
+  display:flex;
+}
+#u4645 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u4645_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u4646 {
+  border-width:0px;
+  position:absolute;
+  left:1607px;
+  top:10px;
+  width:49px;
+  height:48px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u4647 {
+  border-width:0px;
+  position:absolute;
+  left:1192px;
+  top:10px;
+  width:109px;
+  height:42px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u4648 {
+  border-width:0px;
+  position:absolute;
+  left:1082px;
+  top:10px;
+  width:109px;
+  height:42px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
